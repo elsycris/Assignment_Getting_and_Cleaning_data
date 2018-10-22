@@ -1,7 +1,7 @@
 
-##Codebook coursera Getting and cleaning data
-###author: "Elsy"
-###date: "10-18-2018
+Codebook coursera Getting and cleaning data
+author: "Elsy"
+date: "10-18-2018
 
 
 
