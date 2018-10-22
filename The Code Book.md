@@ -33,7 +33,7 @@ First the files were downloaded and unzipped
 *	File download, verification of the download to working directory
 *	File unzip verification of unzip the downloaded file.
 
-##Data Analysis
+## Data Analysis
 
 ### 1 Merge the training and the test sets to create one data set.
 
