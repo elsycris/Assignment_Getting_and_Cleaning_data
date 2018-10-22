@@ -1,5 +1,5 @@
 
-## Codebook coursera Getting and cleaning data
+## Codebook coursera getting and cleaning data
 ### author: "Elsy"
 ### date: "10-18-2018
 
